@@ -3,4 +3,4 @@ I created both customer and reservation models while forming a relationship with
 
 <img width="1461" height="548" alt="image" src="https://github.com/user-attachments/assets/95cb134d-a91d-4a66-99dc-97bd73ff2d7b" />
 
-<img width="1666" height="530" alt="image" src="https://github.com/user-attachments/assets/f3f547c3-202b-4cea-854b-34056d1e2106" />
+<img width="1615" height="520" alt="image" src="https://github.com/user-attachments/assets/55dcdb9d-da6e-4cf2-a01a-13b81e8bcb4e" />
